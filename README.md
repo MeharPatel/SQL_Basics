@@ -1,6 +1,6 @@
 ﻿# SQL_Basics
 ## This Repo covers all the topics of SQL from basic to advanced.
-### This is the list of all the topics that are included in this repository.
+###  Here’s a concise list of SQL Server topics, designed to cover the essentials and advanced concepts in a clear and understandable way:
 
 1. SQL Server Basics
 2. Transact-SQL (T-SQL)
